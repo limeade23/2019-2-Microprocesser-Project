@@ -5,8 +5,11 @@ Using Facedetect or Numberpad
 
 # Version
 ## C Cpp Python
-doorlock part - c and cpp
-facedetect part - python
+### Using
+- c (doorlock)
+- cpp (doorlock)
+- python (facedetect)
+- opencv
 
 these parts connection method is socket
 
