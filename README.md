@@ -1,8 +1,18 @@
-# 2019학년도 2학기 마이크로프로세서 
+# 2019 fall Microprocesser Course
 
-# 안면인식 도어락
-얼굴인식 및 키패드를 이용하여 작동이 가능
+# FaceDetect Doorlock
+Using Facedetect or Numberpad
 
-## OnlyPython 버전은 퇴짜 맞은 버전
-## 도어락 부분은 C 및 C++로 얼굴인식 부분은 Python으로 구성
-소켓통신을 이용하여 제어
+# Version
+## C Cpp Python
+doorlock part - c and cpp
+facedetect part - python
+
+these parts connection method is socket
+
+## Only Python
+first codes
+
+but professor does not love using only python
+so remake it with c and cpp
+
