@@ -15,5 +15,5 @@ these parts connection method is socket
 first codes
 
 but professor does not love using only python
-so remake it with c and cpp
+so refactoring with c and cpp
 
