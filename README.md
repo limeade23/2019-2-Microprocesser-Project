@@ -5,7 +5,6 @@ Using Facedetect or Numberpad
 
 ## Version
 ### C Cpp Python
-#### Using
 - c (doorlock)
 - cpp (doorlock)
 - python (facedetect)
