@@ -3,8 +3,7 @@
 ## FaceDetect Doorlock
 Using Facedetect or Numberpad
 
-## Version
-### C Cpp Python
+### C Cpp Python Version
 - c (doorlock)
 - cpp (doorlock)
 - python (facedetect)
@@ -12,7 +11,7 @@ Using Facedetect or Numberpad
 
 these parts connection method is socket
 
-### Only Python
+### Only Python Version
 first codes
 
 but professor does not love using only python
